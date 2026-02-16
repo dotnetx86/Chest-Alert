@@ -1,18 +1,19 @@
 {
-	"geode": "4.0.1",
+	"geode": "5.0.0-beta.2",
 	"gd": {
-		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074"
+        "win": "2.2081",
+        "android": "2.2081",
+        "mac": "2.2081",
+        "ios": "2.2081"
 	},
 	"id": "lilnibblit.chestalert",
 	"name": "Chest Alert",
-	"version": "v1.0.6",
-	"developer": "lilnibblit",
-	"description": "This mod spawns exclamation mark near the chests button if you have chest(s) ready.",
-	"tags": ["interface"],
+	"version": "v1.0.7",
+	"developer": "dotnet",
+	"description": "A mod that alerts when chests are ready.",
+	"tags": ["interface", "enhancement"],
 	"links": {
 		"source": "https://github.com/lilnibblit/Chest-Alert",
-		"homepage": "https://blackpencil.shop/chestalert"
+		"homepage": "https://dotnetx86.github.io/blackpencil/chestalert"
 	}
 }
